@@ -1,0 +1,19 @@
+{
+  "name": "salesforce",
+  "version": "1.0.0",
+  "description": "Salesforce Certification Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niesssiobhan/Salesforce.git"
+  },
+  "author": "siobhanHeller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niesssiobhan/Salesforce/issues"
+  },
+  "homepage": "https://github.com/niesssiobhan/Salesforce#readme"
+}
